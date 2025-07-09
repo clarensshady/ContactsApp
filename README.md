@@ -17,7 +17,7 @@
    ```bash
    npx expo start
    ```
-4. before launching the project, on you phone download Expo app via play store if you have android device or App store if you have an apple device.
+4. before launching the project, on you phone download Expo go app via play store if you have android device or App store if you have an apple device.
 
 5. scan the QR code after typing the command npx expo start with the expo app on your phone.
 
